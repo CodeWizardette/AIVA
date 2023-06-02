@@ -1,4 +1,4 @@
-#AIVA - Autonomous Intelligent Virtual Assistant
+<h1>AIVA - Autonomous Intelligent Virtual Assistant</h1>
 
 This project is designed to create an AI model called AIVA. AIVA is a virtual assistant that will be deployed on a computer and freely explore the internet to search for information. Additionally, it will continuously train itself and improve its capabilities.
 Project Features
